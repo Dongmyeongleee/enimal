@@ -33,7 +33,7 @@
 
 # 🐇 기술스택
 
-![기술_스택](/uploads/1cc364edc8b752cb7969fbfa8289d710/기술_스택.jpg)
+![기술_스택.jpg (1640×779)](https://lab.ssafy.com/s07-blockchain-nft-sub2/S07P22C106/uploads/1cc364edc8b752cb7969fbfa8289d710/%EA%B8%B0%EC%88%A0_%EC%8A%A4%ED%83%9D.jpg)
 
 ### 프론트
     - React.js : 18.2.0
@@ -88,63 +88,62 @@ AI 이미지 생성 => url을 통해 이미지 다운로드 => 이미지와 메�
 ```
 
 # 🐑 프로젝트 화면
-![사용설명서](/uploads/58278b8b3e9c1f7c3d712396d380bb8c/사용설명서.png)
+![사용설명서](https://lab.ssafy.com/s07-blockchain-nft-sub2/S07P22C106/uploads/58278b8b3e9c1f7c3d712396d380bb8c/%EC%82%AC%EC%9A%A9%EC%84%A4%EB%AA%85%EC%84%9C.png)
 
 ### ** 메인페이지-배너 **
-![배너](/uploads/a541b5562f32508ee1a754ba1cb35a5b/image.png)
+![배너](https://lab.ssafy.com/s07-blockchain-nft-sub2/S07P22C106/uploads/a541b5562f32508ee1a754ba1cb35a5b/image.png)
 
 서비스에 대한 간단한 소개 페이지를 갈 수 있는 배너
 
 ### ** 메인페이지-오늘의동물 **
-![오늘의동물](/uploads/eaaa800e5775c73845c40b881e703baf/image.png)
+![오늘의동물](https://lab.ssafy.com/s07-blockchain-nft-sub2/S07P22C106/uploads/eaaa800e5775c73845c40b881e703baf/image.png)
 
 매일 랜덤으로 24종의 멸종위기 동물에 관한 내용을 보여주고, 영상 시청할 수 있도록 유도
 
 ### ** 상단바-환전 **
-![환전](/uploads/609ecbb9f785e72847c2482ff3b228f6/image.png)
+![환전](https://lab.ssafy.com/s07-blockchain-nft-sub2/S07P22C106/uploads/609ecbb9f785e72847c2482ff3b228f6/image.png)
 
 싸피네트워크를 통해 SSF 코인 재화를 서비스 내 재화로 변환, 기부 할 비율을 선택 후 충전
 
 ### ** 전체 뽑기 **
 
-![전체뽑기](/uploads/0f79b0031fc20f0a48d0739269ed2bcc/전체뽑기.JPG)
+![전체뽑기](https://lab.ssafy.com/s07-blockchain-nft-sub2/S07P22C106/uploads/0f79b0031fc20f0a48d0739269ed2bcc/%EC%A0%84%EC%B2%B4%EB%BD%91%EA%B8%B0.JPG)
 
 사용자가 보유중인 업적과 멸종위기 등급을 통해 확률 산정 후 뽑기
 업적 보유시 미보유 조각의 뽑기 확률을 증가
 
 ### ** 개별 뽑기 **
 
-![선택뽑기](/uploads/ebed303e8e8cd555065d076f9fd7fb6d/선택뽑기.JPG)
+![선택뽑기](https://lab.ssafy.com/s07-blockchain-nft-sub2/S07P22C106/uploads/ebed303e8e8cd555065d076f9fd7fb6d/%EC%84%A0%ED%83%9D%EB%BD%91%EA%B8%B0.JPG)
 
 사용자가 보유중인 업적과 멸종위기 등급을 통해 가격 산정 후 뽑기
 
 ### ** 뽑기 화면 **
 
-![뽑기 화면](/uploads/60ad8972db1bf757ddafae14d1cdf01b/image.png)
+![뽑기 화면](https://lab.ssafy.com/s07-blockchain-nft-sub2/S07P22C106/uploads/60ad8972db1bf757ddafae14d1cdf01b/image.png)
 
 ### **마이페이지**
 
-![기본정보](/uploads/92204f09f3949061d96ec6c69e88eb76/image.png)
+![기본정보](https://lab.ssafy.com/s07-blockchain-nft-sub2/S07P22C106/uploads/92204f09f3949061d96ec6c69e88eb76/image.png)
 
 현재 나의 랭킹, 업적별 획득 현황 등 사용자 기본정보
 
 ### **자유게시판**
 
-![자유게시판](/uploads/c73bbbb304d02a5e94657a69366beed7/자유게시판.JPG)
+![자유게시판](https://lab.ssafy.com/s07-blockchain-nft-sub2/S07P22C106/uploads/c73bbbb304d02a5e94657a69366beed7/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90.JPG)
 
 발급된 NFT들을 자랑하는 게시판
 
 ### NFT 발급 ( Dream api 사용 )
 
-![이미지 설정](/uploads/58950cac278242060a596673d0480b15/1.png)
-![이미지 발급](/uploads/b75a38609a0ea035b261e0944b8c3ebe/2.png)
+![이미지 설정](https://lab.ssafy.com/s07-blockchain-nft-sub2/S07P22C106/uploads/58950cac278242060a596673d0480b15/1.png)
+
+
+
+#### 발급된 이미지
+
+![이미지 발급](https://lab.ssafy.com/s07-blockchain-nft-sub2/S07P22C106/uploads/b75a38609a0ea035b261e0944b8c3ebe/2.png)
 
 조각을 다 모은 동물을 선택해 이름과 테마 설정,
 Dream API에서 해당 테마에 맞는 랜덤한 이미지로 생성,
 해당 사용자의 계정에 mint시켜 NFT 발급
-
-# 🎬 UCC
-![유우씨씨주소넣을거예요](https://www.notion.so/c6050e575e3243b3b65d8b53f45be3ab#b1e42f85783f4553923618d65f7bb623)
-
-
-
